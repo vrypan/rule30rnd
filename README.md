@@ -1,2 +1,2 @@
 # rule30rnd
-Old repo for R30R2
+Original repo for [R30R2](https://github.com/vrypan/r30r2)
